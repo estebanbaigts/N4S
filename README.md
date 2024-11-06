@@ -1,32 +1,32 @@
-# N4S - Need for Speed Game Clone
+# N4S - Need for Speed ​​Game Clone
 
-N4S est un clone éducatif et simplifié du célèbre jeu de course *Need for Speed*, développé en C. Ce projet vise à simuler une expérience de course tout en servant de support pédagogique pour explorer des concepts avancés de programmation en C.
+N4S is an educational and simplified clone of the famous racing game *Need for Speed*, developed in C. This project aims to simulate a racing experience while serving as an educational support to explore advanced programming concepts in C.
 
-## Fonctionnalités
+## Features
 
-- **Simulation de course de base** : Contrôlez votre véhicule, accélérez et freinez, avec une interface simple.
-- **Gestion des collisions et des obstacles** : Le jeu comprend une détection de collisions et des obstacles sur la piste pour rendre la course plus immersive.
-- **Boucle de jeu optimisée** : Les animations, la logique de jeu et les interactions sont gérées en temps réel pour une expérience fluide.
-- **Affichage 2D** : Une interface graphique légère représente la piste et les mouvements du véhicule.
+- **Basic racing simulation**: Control your vehicle, accelerate and brake, with a simple interface.
+- **Collision and obstacle management**: The game includes collision detection and obstacles on the track to make the race more immersive.
+- **Optimized game loop**: Animations, game logic and interactions are managed in real time for a smooth experience.
+- **2D display**: A lightweight graphical interface represents the track and the vehicle's movements.
 
-## Objectifs pédagogiques
+## Learning Objectives
 
-Ce projet a pour but d'aider les développeurs à :
+This project aims to help developers to:
 
-1. Approfondir les concepts fondamentaux de la programmation en C en travaillant sur un projet motivant.
-2. Appliquer des notions de gestion de mémoire, de structure de données, et d'optimisation de boucle de jeu.
-3. Découvrir les bases de la simulation et des animations pour les jeux en 2D.
+1. Deepen the fundamental concepts of C programming by working on a motivating project.
+2. Apply notions of memory management, data structure, and game loop optimization.
+3. Discover the basics of simulation and animation for 2D games.
 
-## Prérequis
+## Prerequisites
 
-- Connaissance du langage C.
-- Familiarité avec la programmation de jeux en 2D.
-- Un compilateur C (par exemple, GCC) pour compiler et exécuter le projet.
+- Knowledge of the C language.
+- Familiarity with 2D game programming.
+- A C compiler (e.g. GCC) to compile and run the project.
 
 ## Installation
 
-1. Clonez le dépôt :
+1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/estebanbaigts/N4S.git
-   cd N4S
+```bash
+git clone https://github.com/estebanbaigts/N4S.git
+cd N4S
